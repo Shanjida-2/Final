@@ -1,13 +1,23 @@
-#nameField{
+body{
+    color: black;
+    font-size: 12px;
+}
+
+#name{
     background-color:wheat;
 }
 #age
 {
-    background-color: rgb(131, 155, 151);
-    color: rgb(158, 158, 158);
-    font-size: +30;
+   background-color: wheat;
 }
 
-.Monthly Internet Bill{
+
+
+#deviceMfees{
     background-color: wheat;
+}
+button{
+    background-color: yellow;
+    
+    font-size: +30;
 }
